@@ -1,7 +1,7 @@
-# [alfonso@arch-f3nr1r ~]$ neofetch
+# [alfonso@f3nr1r ~]$ neofetch
 
 ```text
-                   -`                    Alfonso Saldaña Campos
+                   -`                    Alfonso Saldaña Campos (F3NR1R)
                   .o+`                   ----------------------
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  DEGREE: B.S. Computer Science (BUAP)
