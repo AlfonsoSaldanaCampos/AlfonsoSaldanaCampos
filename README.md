@@ -1,25 +1,26 @@
 # [alfonso@arch-f3nr1r ~]$ neofetch
 
-                  -`                    Alfonso Saldaña Campos
-                 .o+`                   ----------------------
-                `ooo/                   OS: Arch Linux x86_64
-               `+oooo:                  DEGREE: B.S. Computer Science (BUAP)
-              `+oooooo:                 GPA: 8.3 / 10.0
-              -+oooooo+:                KERNEL: Linux-6.x.x-arch1-1
-            `/:-:++oooo+:               SHELL: zsh
-           `/++++/+++++++:              SPECIALTY: Networks & Cybersec
-          `/++++++++++++++:             EXPERIENCE: Junior NetAdmin @ ASR-BUAP
-         `/+++ooooooooooooo/`           GOAL: Astrophysics & Astro-Data Analysis
-        ./ooossssqssoooosssso`          
-       .oossssso-````/ossssss+          [■■■■■■■■■□□□] 80% Processing Data
-      -osssssso.      :ssssssso.        
-     :osssssss/        ossssoooo.       "The universe is just code waiting 
-    /ossssssss/        +ssssooo/-        to be refactored."
-  `/ossssso+/:-        -:/+osssso+-     
- `+sso+:-`                 `.-/+oso:    
-`++:.                           `:/+/   
-.`                                 `/
-
+```text
+                   -`                    Alfonso Saldaña Campos
+                  .o+`                   ----------------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  DEGREE: B.S. Computer Science (BUAP)
+               `+oooooo:                 GPA: 8.3 / 10.0
+               -+oooooo+:                KERNEL: Linux-6.x.x-arch1-1
+             `/:-:++oooo+:               SHELL: zsh
+            `/++++/+++++++:              SPECIALTY: Networks,Server Administrator & Cybersec
+           `/++++++++++++++:             EXPERIENCE: Junior NetAdmin @ ASR-BUAP
+          `/+++ooooooooooooo/`           GOAL: Astrophysics & Astro-Data Analysis
+         ./ooossssqssoooosssso`          
+        .oossssso-````/ossssss+          [■■■■■■■■■□□□] 80% Processing Data
+       -osssssso.      :ssssssso.        
+      :osssssss/        ossssoooo.       "The universe is just code waiting 
+     /ossssssss/        +ssssooo/-        to be refactored."
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `:/+/   
+ .`                                 `/
+```
 ---
 
 ### ⚡ Quick Scan
@@ -51,5 +52,5 @@
 ---
 
 ### 📫 Contact alfonso@f3nr1r:
-* **Email:** [Tu nuevo correo de Proton aquí]
+* **Email:** 
 * **Location:** Puebla, México.
