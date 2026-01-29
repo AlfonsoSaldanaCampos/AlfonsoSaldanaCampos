@@ -16,7 +16,7 @@
        -osssssso.      :ssssssso.        
       :osssssss/        ossssoooo.       "The universe is just code waiting 
      /ossssssss/        +ssssooo/-        to be refactored."
-   `/ossssso+/:-        -:/+osssso+-     
+   `/ossssso+/:-        -:/+osssso+-     "Ad astra per aspera"
   `+sso+:-`                 `.-/+oso:    
  `++:.                           `:/+/   
  .`                                 `/
